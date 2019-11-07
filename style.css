@@ -1,0 +1,27 @@
+
+* {
+  border: 2px solid black;
+  padding: 5px;
+
+}
+
+.container{
+  border: 2px solid red
+}
+.row{
+  border: 2px solid blue
+
+}
+.col{
+  border: 2px solid green
+
+}
+
+
+
+
+
+
+
+
+
